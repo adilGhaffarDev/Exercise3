@@ -1,5 +1,5 @@
-#Run Server
+## Run Server
 npm start
 
-#Run server dev mode
+## Run server dev mode
 npm run dev
