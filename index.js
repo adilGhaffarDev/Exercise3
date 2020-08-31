@@ -36,7 +36,7 @@ let persons = [
   ]
 
 app.get('/',(request,response) => {
-    response.json(persons)
+    response.send(`<div>This is a phonebook server.</div>`)
 })
 
 //get all persons data
