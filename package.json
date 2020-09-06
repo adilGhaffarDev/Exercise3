@@ -12,7 +12,7 @@
     "deploy:full": "npm run build:ui && git add . && git commit -m uibuild && npm run deploy",
     "logs:prod": "heroku logs --tail"
   },
-  "author": "Muhammad Adil Ghaffar",
+  "author": "Adil Ghaffar",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
